@@ -75,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="677.80781"
-     inkscape:cy="1841.842"
+     inkscape:cx="967.46387"
+     inkscape:cy="612.29841"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,6 +124,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1073.622)">
+    <rect
+       style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1"
+       id="rect9829"
+       width="744.09351"
+       height="621.93195"
+       x="-1.1368684e-13"
+       y="-28.354115" />
+    <rect
+       y="-546.40607"
+       x="-1.1368684e-13"
+       height="606.62329"
+       width="744.09351"
+       id="rect9152"
+       style="opacity:1;fill:#2a3c4d;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:#22313f;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1"
        id="rect7341"
@@ -683,13 +697,6 @@
          style="opacity:1;fill:#2a3c4d;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1" />
     </g>
     <rect
-       y="-473.14334"
-       x="-1.1368684e-13"
-       height="533.36053"
-       width="744.09351"
-       id="rect9152"
-       style="opacity:1;fill:#2a3c4d;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1" />
-    <rect
        style="opacity:1;fill:#22313f;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1"
        id="rect9154"
        width="331.21213"
@@ -918,14 +925,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:93.00000072%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:end;letter-spacing:-0.23335104px;text-anchor:end;fill:#ecf0f1;fill-opacity:1"
          id="flowPara9459">NOVEMBRO</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:93.00000072%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:end;letter-spacing:-0.23335104px;text-anchor:end;fill:#ecf0f1;fill-opacity:1"
-         id="flowPara9461">DE 2016</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1"
-       id="rect9829"
-       width="744.09351"
-       height="533.36053"
-       x="-1.1368684e-13"
-       y="60.217316" />
-    <g
+         id="flowPara9461">DE 2016</flowPara></flowRoot>    <g
        id="g9689"
        transform="matrix(0.54971445,0,0,0.54971445,-241.41482,5.0624816)">
       <rect
