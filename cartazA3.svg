@@ -15,7 +15,7 @@
    id="svg5562"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="main.svg">
+   sodipodi:docname="cartazA3.svg">
   <defs
      id="defs5564">
     <clipPath
@@ -78,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2175.3158"
-     inkscape:cy="550.2803"
+     inkscape:zoom="0.7"
+     inkscape:cx="362.10394"
+     inkscape:cy="68.297384"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,7 +94,7 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <sodipodi:guide
        position="0,0"
        orientation="0,744.09449"
@@ -144,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -495,7 +495,7 @@
        ry="0" />
     <g
        id="g4694"
-       transform="matrix(0.9235055,0,0,0.9235055,-9067.5152,3103.7529)">
+       transform="matrix(0.97693568,0,0,0.97693568,-9594.583,3276.3551)">
       <path
          style="fill:#f2f1ef;fill-opacity:1;stroke:none"
          d="m 9899.4331,-3230.4245 0,46.7542 135.6879,0 0,-46.7542 z"
@@ -854,7 +854,7 @@
            height="477.14285"
            x="1568.5714"
            y="240.93364" /></flowRegion><flowPara
-         id="flowPara6751"></flowPara></flowRoot>    <flowRoot
+         id="flowPara6751" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6753"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -864,7 +864,7 @@
            height="174.28572"
            x="1934.2858"
            y="43.790775" /></flowRegion><flowPara
-         id="flowPara6759"></flowPara></flowRoot>    <flowRoot
+         id="flowPara6759" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6782"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.71696472px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';letter-spacing:0px;word-spacing:0px;fill:#22313f;fill-opacity:1;stroke:none"
@@ -1822,7 +1822,7 @@
        id="rect7443"
        style="opacity:1;fill:#2a3c4d;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:159;stroke-opacity:1" />
     <g
-       transform="matrix(0.47922379,0,0,0.47922379,57.32498,499.2444)"
+       transform="matrix(0.33954488,0,0,0.33954488,57.120341,638.37901)"
        id="layer1-1"
        inkscape:label="Camada 1"
        style="fill:#ecf0f1;fill-opacity:1">
